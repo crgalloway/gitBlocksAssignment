@@ -1,0 +1,112 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper{
+	padding: 15px;
+	width: 970px;
+	background-color: #dddfd4;
+}
+#header{
+	height: 40px;
+	margin: 0px 0px 15px 0px;
+	padding: 10px;
+	background-color: #38b0ad;
+	position: relative;
+}
+#logo{
+	mix-blend-mode: multiply;
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	display: inline-block;
+}
+#header h1{
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: 50px;
+	vertical-align: top;
+}
+#header table{
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: 190px;
+}
+#header td{
+	padding: 6px;
+}
+#header table a{
+	color: white;
+
+}
+#body{
+	margin: 0px 0px 10px 0px;
+	padding: 15px 0px 0px 15px;
+	background-color: #fbe691;
+	color: white;
+}
+.sideheading{
+	font-size: 24px;
+	margin: 5px;
+}
+.bodyheading{
+	font-size: 18px;
+	margin: 5px;
+}
+.info{
+	margin: 15px;
+}
+#sidebar{
+	width: 201px;
+	display: inline-block;
+	background-color: #153f43;
+}
+#main{
+
+	width: 750px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+.mainrow{
+	height: 180px;
+	width: 100%;
+	margin: 0px 0px 5px 10px;
+	display: inline-block;
+	text-align: left;
+}
+.git3{
+	height: 140px;
+	width: 29%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 10px 0px 10px;
+	background-color: #153f43;
+}
+.git2{
+	height: 140px;
+	width: 45%;
+	vertical-align: top;
+	display: inline-block;
+	margin: 0px 10px 0px 10px;
+	background-color: #153f43;
+}
+.git1{
+	height: 140px;
+	width: 94%;
+	vertical-align: top;
+	display: inline-block;
+	margin: 0px 10px 0px 10px;
+	background-color: #153f43;
+}
+#footer{
+	height: 20px;
+	background-color: #38b0ad;
+	padding: 20px;
+}
+#footer p{
+	text-align: center;
+}
+.color{
+	color: #45c4b6
+}
